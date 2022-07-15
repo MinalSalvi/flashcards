@@ -1,0 +1,59 @@
+
+
+body{
+padding: 0;
+margin: 0;
+
+}
+
+.header{
+    display: flex;
+    background-color: whitesmoke;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Nunito', sans-serif;
+align-items: center;
+justify-content: space-between;
+}
+
+#hh2{
+    font-weight: 800;
+    margin-left: 2vw;
+}
+
+.h_buttons button{
+    margin-right: 2vw;
+
+}
+
+.swt_flash_container{
+height: 50vh;
+width: 100vw;
+display: flex;
+justify-content: center;
+margin: 3vw;
+
+}
+
+.set_flash{
+box-shadow: 0 4px 2px 0 rgba(0,0,0,0.5);
+width: fit-content;
+padding: 3vw;
+
+/* align-items: center; */
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: whitesmoke;
+}
+
+.answerframe{
+    display: flex;
+    flex-direction: column;
+}
+
+.sf_buttons{
+    padding-top: 2vw;
+    
+    
+}
+
